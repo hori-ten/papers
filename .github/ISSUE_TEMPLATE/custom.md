@@ -8,9 +8,7 @@ assignees: ''
 ---
 
 ### 論文リンク
-### 著者
-### 投稿日付(yyyy/MM/dd)
+### Author: 
+### Submitted on yyyy/mm/dd
 
-## 概要
-
-## 結論
+### Abstract
