@@ -1,14 +1,18 @@
 # papers
 ## Domain Adaptation
 - **GeoNet: Benchmarking Unsupervised Adaptation across Geographies**  
-[[arXiv]](https://arxiv.org/abs/2303.15443)  
+[[paper]](https://tarun005.github.io/files/papers/GeoNet.pdf)
+[[arXiv]](https://arxiv.org/abs/2303.15443)
+[[code]](https://github.com/ViLab-UCSD/GeoNet)  
 Author: Tarun Kalluri, Wangdong Xu, Manmohan Chandraker  
 Submitted on 2023/3/27  
 Conference: CVPR2023  
 地理的なドメインシフトに対する頑健性を評価するベンチマークデータセットとなるGeoNetを提案.  
 
 - **MemSAC: Memory Augmented Sample Consistency for Large Scale Domain Adaptation**  
-[[arXiv]](https://arxiv.org/abs/2207.12389)  
+[[paper]](https://tarun005.github.io/files/papers/MemSAC_ECCV22.pdf)
+[[arXiv]](https://arxiv.org/abs/2207.12389)
+[[code]](https://github.com/ViLab-UCSD/MemSAC_ECCV2022)  
 Author: Tarun Kalluri, Astuti Sharma, Manmohan Chandraker  
 Submitted on 2022/07/25  
 Conference: ECCV2022  
