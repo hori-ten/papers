@@ -1,6 +1,6 @@
 ## dataset
 - **GeoNet: Benchmarking Unsupervised Adaptation across Geographies**  
-[[paper]](https://tarun005.github.io/files/papers/GeoNet.pdf)
+[[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Kalluri_GeoNet_Benchmarking_Unsupervised_Adaptation_Across_Geographies_CVPR_2023_paper.pdf)
 [[arXiv]](https://arxiv.org/abs/2303.15443)
 [[code]](https://github.com/ViLab-UCSD/GeoNet)
   - Author: Tarun Kalluri, Wangdong Xu, Manmohan Chandraker  
@@ -27,7 +27,8 @@
   - Conference: ECCV2022  
   - 教師なしドメイン適応手法であるMemSACを提案. targetサンプルと, Memory Bankに保管したsourceサンプルとの間の類似度を利用する.
 
-- **Don't Judge an Object by Its Context: Learning to Overcome Contextual Bias**  
+- **Don't Judge an Object by Its Context: Learning to Overcome Contextual Bias**
+[[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Singh_Dont_Judge_an_Object_by_Its_Context_Learning_to_Overcome_CVPR_2020_paper.pdf)
 [[arXiv]](https://arxiv.org/abs/2001.03152)
   - Author: Krishna Kumar Singh, Dhruv Mahajan, Kristen Grauman, Yong Jae Lee, Matt Feiszli, Deepti Ghadiyaram  
   - Date: 2020/01/09  
