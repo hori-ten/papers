@@ -34,6 +34,7 @@
   - Date: 2020/01/09  
   - Conference: CVPR2020  
   - 従来のモデルはContextに依存することが多い(例:「スケートボード」の画像を分類する際, 画像に共起する「人」を判断基準にしてしまう). Class Activation Maps(CAM)の空間的重複を最小化することで, この問題を解決する.
+    [summary](https://github.com/hori-ten/papers/blob/main/categories/domain_adaptation/contextual_bias.md)
 
 - **Object-aware Contrastive Learning for Debiased Scene Representation**  
 [[arXiv]](https://arxiv.org/abs/2108.00049)
