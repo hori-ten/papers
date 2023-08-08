@@ -1,4 +1,5 @@
 # papers
+## dataset
 - **GeoNet: Benchmarking Unsupervised Adaptation across Geographies**  
 [[paper]](https://tarun005.github.io/files/papers/GeoNet.pdf)
 [[arXiv]](https://arxiv.org/abs/2303.15443)
@@ -8,7 +9,8 @@
   - Conference: CVPR2023  
   - 地理的なドメインシフトに対する頑健性を評価するベンチマークデータセットとなるGeoNetを提案.
 
-- **Unsupervised Domain Adaptation by Backpropagation**
+## methods
+- **Unsupervised Domain Adaptation by Backpropagation**  
 [[paper]](http://sites.skoltech.ru/compvision/projects/grl/files/paper.pdf)
 [[arXiv]](https://arxiv.org/abs/1409.7495)
 [[code]](https://github.com/ddtm/caffe/tree/grl)
