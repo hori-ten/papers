@@ -27,13 +27,13 @@
   - Conference: ECCV2022  
   - 教師なしドメイン適応手法であるMemSACを提案. targetサンプルと, Memory Bankに保管したsourceサンプルとの間の類似度を利用する.
 
-- **Don't Judge an Object by Its Context: Learning to Overcome Contextual Bias**
+- **Don't Judge an Object by Its Context: Learning to Overcome Contextual Bias**  
 [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Singh_Dont_Judge_an_Object_by_Its_Context_Learning_to_Overcome_CVPR_2020_paper.pdf)
 [[arXiv]](https://arxiv.org/abs/2001.03152)
   - Author: Krishna Kumar Singh, Dhruv Mahajan, Kristen Grauman, Yong Jae Lee, Matt Feiszli, Deepti Ghadiyaram  
   - Date: 2020/01/09  
   - Conference: CVPR2020  
-  - 従来のモデルはContextに依存することが多い(例:「スケートボード」の画像を分類する際, 画像に共起する「人」を判断基準にしてしまう). Class Activation Maps(CAM)の空間的重複を最小化することで, この問題を解決する.
+  - 従来のモデルはContextに依存することが多い(例:「スケートボード」の画像を分類する際, 画像に共起する「人」を判断基準にしてしまう). Class Activation Maps(CAM)の空間的重複を最小化することで, この問題を解決する.  
     [summary](https://github.com/hori-ten/papers/blob/main/categories/domain_adaptation/contextual_bias.md)
 
 - **Object-aware Contrastive Learning for Debiased Scene Representation**  
