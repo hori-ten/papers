@@ -6,7 +6,16 @@
   - Author: Tarun Kalluri, Wangdong Xu, Manmohan Chandraker  
   - Date: 2023/3/27  
   - Conference: CVPR2023  
-  - 地理的なドメインシフトに対する頑健性を評価するベンチマークデータセットとなるGeoNetを提案.  
+  - 地理的なドメインシフトに対する頑健性を評価するベンチマークデータセットとなるGeoNetを提案.
+
+- **Unsupervised Domain Adaptation by Backpropagation**
+[[paper]](http://sites.skoltech.ru/compvision/projects/grl/files/paper.pdf)
+[[arXiv]](https://arxiv.org/abs/1409.7495)
+[[code]](https://github.com/ddtm/caffe/tree/grl)
+  - Author: Yaroslav Ganin, Victor Lempitsky
+  - Date: 2014/9/26  
+  - Conference: ICML2015
+  - ドメインによらない特徴量を出力するエンコーダと, ドメインを識別する識別器を敵対的に学習する.
 
 - **MemSAC: Memory Augmented Sample Consistency for Large Scale Domain Adaptation**  
 [[paper]](https://tarun005.github.io/files/papers/MemSAC_ECCV22.pdf)
