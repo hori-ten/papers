@@ -4,3 +4,9 @@
   - Author: Dmitry Ulyanov, Andrea Vedaldi, Victor Lempitsky 
   - Date: 2016/7/27  
   - (Abstract)
+
+- **Demystifying Neural Style Transfer**  
+[[arXiv]](https://arxiv.org/abs/1701.01036)
+  - Author: Yanghao Li, Naiyan Wang, Jiaying Liu, Xiaodi Hou
+  - Date: 2017/1/4  
+  - (Abstract)
