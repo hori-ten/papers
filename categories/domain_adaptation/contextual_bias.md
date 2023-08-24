@@ -12,9 +12,9 @@
  - 本論文での目標は，(1)"ski "が単独で出現したときに正しく識別し，(2)"ski "が "person "と共起したときに性能を落とさないことである．
 
 ## バイアスの定義
- $bias(b,z)=\frac{\frac{1}{|\mathbb I_b \cap \mathbb I_z|} \displaystyle\sum_{i \in \mathbb I_b	\cap \mathbb I_z}{b}$
+ $bias(b,z)=\frac{\frac{1}{|\mathbb I_b \cap \mathbb I_z|} \displaystyle\sum_{I \in \mathbb I_b	\cap \mathbb I_z} \hat{p}(i,b)}{\frac{1}{|\mathbb I_b \setminus \mathbb I_z|} \displaystyle\sum_{I \in \mathbb I_b	\setminus \mathbb I_z} \hat{p}(i,b)}$
 
-これを利用して，データセット中それぞれのカテゴリbに対し，最もバイアスの値が大きく，かつ少なくとも10~20%の確率でbと共起するカテゴリcを特定する．
+上式は，カテゴリzと共起する場合とそうでない場合のカテゴリbの確率の比を表している．つまり，zが無いとbの予測確率が著しく低下してしまう場合にバイアスが大きくなる．これを利用して，データセット中それぞれのカテゴリbに対し，最もバイアスの値が大きく，かつ少なくとも10~20%の確率でbと共起するカテゴリcを特定する．
 
 # 提案手法
 1. 弱い位置注釈としてクラス活性化マップ(CAM)を利用し，biased categories間の空間的重複を最小化する．
