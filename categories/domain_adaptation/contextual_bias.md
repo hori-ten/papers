@@ -12,8 +12,8 @@
  - 本論文での目標は，(1)"ski "が単独で出現したときに正しく識別し，(2)"ski "が "person "と共起したときに性能を落とさないことである．
 
 ## バイアスの定義
-![bias](https://ar5iv.labs.arxiv.org/html/2001.03152/assets/x2.png)  
-カテゴリbとcが共起している場合と，bのみが出現している場合の比をbias(b,c)とする(前述の例では，bias(ski,person)=2209/29となる)．  
+ $bias(b,z)=\frac{\frac{1}{|\mathbb I_b \cap \mathbb I_z|} \displaystyle\sum_{i \in \mathbb I_b	\cap \mathbb I_z}{b}$
+
 これを利用して，データセット中それぞれのカテゴリbに対し，最もバイアスの値が大きく，かつ少なくとも10~20%の確率でbと共起するカテゴリcを特定する．
 
 # 提案手法
