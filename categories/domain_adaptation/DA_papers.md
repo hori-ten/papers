@@ -62,5 +62,12 @@
   - Author: Hanyu Zhou, Yi Chang, Wending Yan, Luxin Yan
   - Date: 2023/03/14
   - Conference: CVPR2023  
-  - (Abstract)  
+  - (Abstract)
+
+- **Universal Semi-Supervised Domain Adaptation by Mitigating Common-Class Bias**  
+[[arXiv]](https://arxiv.org/abs/2403.11234)
+  - Author: Wenyu Zhang, Qingmu Liu, Felix Ong Wei Cong, Mohamed Ragab, Chuan-Sheng Foo
+  - Date: 2024/03/17
+  - Conference: CVPR2024  
+  - (Abstract)
 
