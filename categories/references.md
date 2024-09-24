@@ -36,4 +36,13 @@
   - Conference: NIPS 2018
   - Times Cited: 2535
 
-計4本
+- **Minimum Class Confusion for Versatile Domain Adaptation(MCC)**  
+[[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660460.pdf)
+[[arXiv]](https://arxiv.org/abs/1912.03699)
+[[code]](https://github.com/thuml/Versatile-Domain-Adaptation)
+  - Author: Ying Jin, Ximei Wang, Mingsheng Long, Jianmin Wang
+  - Date: 2019/12/8
+  - Conference: ECCV2020
+  - Times Cited: 366
+
+計5本
