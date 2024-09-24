@@ -54,4 +54,14 @@
   - Conference: ICCV2019
   - Times Cited: 596
 
-計6本
+- **Bridging Theory and Algorithm for Domain Adaptation(MDD)**  
+[[paper]](http://proceedings.mlr.press/v97/zhang19i/zhang19i.pdf)
+[[arXiv]](https://arxiv.org/abs/1904.05801)
+[[code]](https://github.com/thuml/MDD)
+  - Author: Yuchen Zhang, Tianle Liu, Mingsheng Long, Michael I. Jordan
+  - Date: 2019/4/11
+  - Conference: ICML2019
+  - Times Cited: 820
+
+
+計7本
