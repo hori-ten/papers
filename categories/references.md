@@ -44,5 +44,14 @@
   - Date: 2019/12/8
   - Conference: ECCV2020
   - Times Cited: 366
+ 
+- **Larger Norm More Transferable: An Adaptive Feature Norm Approach for Unsupervised Domain Adaptation(SAFN)**  
+[[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Larger_Norm_More_Transferable_An_Adaptive_Feature_Norm_Approach_for_ICCV_2019_paper.pdf)
+[[arXiv]](https://arxiv.org/abs/1811.07456)
+[[code]](https://github.com/jihanyang/AFN)
+  - Author: Ruijia Xu, Guanbin Li, Jihan Yang, Liang Lin
+  - Date: 2018/11/19
+  - Conference: ICCV2019
+  - Times Cited: 596
 
-計5本
+計6本
