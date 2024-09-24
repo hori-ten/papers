@@ -9,7 +9,7 @@
   - 地理的なドメインシフトに対する頑健性を評価するベンチマークデータセットとなるGeoNetを提案.
 
 ## methods
-- **Unsupervised Domain Adaptation by Backpropagation**  
+- **Unsupervised Domain Adaptation by Backpropagation(DANN)**  
 [[paper]](http://sites.skoltech.ru/compvision/projects/grl/files/paper.pdf)
 [[arXiv]](https://arxiv.org/abs/1409.7495)
 [[code]](https://github.com/ddtm/caffe/tree/grl)
