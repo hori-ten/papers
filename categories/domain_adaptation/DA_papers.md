@@ -17,6 +17,15 @@
   - Date: 2014/9/26  
   - Conference: ICML2015
   - ドメインによらない特徴量を出力するエンコーダと, ドメインを識別する識別器を敵対的に学習する.
+ 
+- **Conditional Adversarial Domain Adaptation(CDAN)**  
+[[paper]](https://papers.nips.cc/paper_files/paper/2018/file/ab88b15733f543179858600245108dd8-Paper.pdf)
+[[arXiv]](https://arxiv.org/abs/1705.10667)
+[[code]](https://github.com/thuml/CDAN)
+  - Author: Mingsheng Long, Zhangjie Cao, Jianmin Wang, Michael I. Jordan
+  - Date: 2017/5/26  
+  - Conference: NIPS 2018
+  - (Abstract)
 
 - **MemSAC: Memory Augmented Sample Consistency for Large Scale Domain Adaptation**  
 [[paper]](https://tarun005.github.io/files/papers/MemSAC_ECCV22.pdf)
