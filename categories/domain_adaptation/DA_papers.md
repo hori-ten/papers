@@ -12,7 +12,7 @@
 - **Unsupervised Domain Adaptation by Backpropagation(DANN)**  
 [[paper]](http://sites.skoltech.ru/compvision/projects/grl/files/paper.pdf)
 [[arXiv]](https://arxiv.org/abs/1409.7495)
-[[code]](https://github.com/ddtm/caffe/tree/grl)
+[[code]](https://github.com/fungtion/DANN)
   - Author: Yaroslav Ganin, Victor Lempitsky
   - Date: 2014/9/26  
   - Conference: ICML2015
