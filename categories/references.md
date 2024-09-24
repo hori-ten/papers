@@ -5,7 +5,8 @@
 [[code]](https://github.com/ViLab-UCSD/GeoNet)
   - Author: Tarun Kalluri, Wangdong Xu, Manmohan Chandraker  
   - Date: 2023/3/27  
-  - Conference: CVPR2023  
+  - Conference: CVPR2023
+  - Times Cited: 11
 
 ## 比較手法
 - **MemSAC: Memory Augmented Sample Consistency for Large Scale Domain Adaptation**  
@@ -14,7 +15,8 @@
 [[code]](https://github.com/ViLab-UCSD/MemSAC_ECCV2022)
   - Author: Tarun Kalluri, Astuti Sharma, Manmohan Chandraker  
   - Date: 2022/07/25  
-  - Conference: ECCV2022  
+  - Conference: ECCV2022
+  - Times Cited: 14
 
 - **Unsupervised Domain Adaptation by Backpropagation(DANN)**  
 [[paper]](http://sites.skoltech.ru/compvision/projects/grl/files/paper.pdf)
@@ -23,6 +25,7 @@
   - Author: Yaroslav Ganin, Victor Lempitsky
   - Date: 2014/9/26  
   - Conference: ICML2015
+  - Times Cited: 7181
  
 - **Conditional Adversarial Domain Adaptation(CDAN)**  
 [[paper]](https://papers.nips.cc/paper_files/paper/2018/file/ab88b15733f543179858600245108dd8-Paper.pdf)
@@ -31,5 +34,6 @@
   - Author: Mingsheng Long, Zhangjie Cao, Jianmin Wang, Michael I. Jordan
   - Date: 2017/5/26  
   - Conference: NIPS 2018
+  - Times Cited: 2535
 
-
+計4本
