@@ -8,6 +8,22 @@
   - Conference: CVPR2023
   - Times Cited: 11
 
+- **Adapting Visual Category Models to New Domains(Office-31)**  
+[[paper]](https://link.springer.com/chapter/10.1007/978-3-642-15561-1_16)
+  - Author: Kate Saenko, Brian Kulis, Mario Fritz, and Trevor Darrel
+  - Conference: ECCV2010
+  - Times Cited: 3443
+
+- **Moment Matching for Multi-Source Domain Adaptation(DomainNet)**  
+[[paper]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Peng_Moment_Matching_for_Multi-Source_Domain_Adaptation_ICCV_2019_paper.pdf)
+[[arXiv]](https://arxiv.org/abs/1812.01754)
+[[code]](http://ai.bu.edu/M3SDA/)
+  - Author: Xingchao Peng, Qinxun Bai, Xide Xia, Zijun Huang, Kate Saenko, Bo Wang 
+  - Date: 2018/12/4
+  - Conference: ICCV2019
+  - Times Cited: 1958
+
+
 ## 比較手法
 - **MemSAC: Memory Augmented Sample Consistency for Large Scale Domain Adaptation**  
 [[paper]](https://tarun005.github.io/files/papers/MemSAC_ECCV22.pdf)
