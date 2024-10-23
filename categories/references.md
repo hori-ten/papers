@@ -5,13 +5,13 @@
 [[code]](https://github.com/ViLab-UCSD/GeoNet)
   - Author: Tarun Kalluri, Wangdong Xu, Manmohan Chandraker  
   - Date: 2023/3/27  
-  - Conference: CVPR2023
+  - Conference: CVPR 2023
   - Times Cited: 11
 
 - **Adapting Visual Category Models to New Domains(Office-31)**  
 [[paper]](https://link.springer.com/chapter/10.1007/978-3-642-15561-1_16)
   - Author: Kate Saenko, Brian Kulis, Mario Fritz, and Trevor Darrel
-  - Conference: ECCV2010
+  - Conference: ECCV 2010
   - Times Cited: 3443
 
 - **Moment Matching for Multi-Source Domain Adaptation(DomainNet)**  
@@ -20,7 +20,7 @@
 [[code]](http://ai.bu.edu/M3SDA/)
   - Author: Xingchao Peng, Qinxun Bai, Xide Xia, Zijun Huang, Kate Saenko, Bo Wang 
   - Date: 2018/12/4
-  - Conference: ICCV2019
+  - Conference: ICCV 2019
   - Times Cited: 1958
 
 
@@ -31,7 +31,7 @@
 [[code]](https://github.com/ViLab-UCSD/MemSAC_ECCV2022)
   - Author: Tarun Kalluri, Astuti Sharma, Manmohan Chandraker  
   - Date: 2022/07/25  
-  - Conference: ECCV2022
+  - Conference: ECCV 2022
   - Times Cited: 14
 
 - **Unsupervised Domain Adaptation by Backpropagation(DANN)**  
@@ -40,7 +40,7 @@
 [[code]](https://github.com/fungtion/DANN)
   - Author: Yaroslav Ganin, Victor Lempitsky
   - Date: 2014/9/26  
-  - Conference: ICML2015
+  - Conference: ICML 2015
   - Times Cited: 7181
  
 - **Conditional Adversarial Domain Adaptation(CDAN)**  
@@ -58,7 +58,7 @@
 [[code]](https://github.com/thuml/Versatile-Domain-Adaptation)
   - Author: Ying Jin, Ximei Wang, Mingsheng Long, Jianmin Wang
   - Date: 2019/12/8
-  - Conference: ECCV2020
+  - Conference: ECCV 2020
   - Times Cited: 366
  
 - **Larger Norm More Transferable: An Adaptive Feature Norm Approach for Unsupervised Domain Adaptation(SAFN)**  
@@ -67,7 +67,7 @@
 [[code]](https://github.com/jihanyang/AFN)
   - Author: Ruijia Xu, Guanbin Li, Jihan Yang, Liang Lin
   - Date: 2018/11/19
-  - Conference: ICCV2019
+  - Conference: ICCV 2019
   - Times Cited: 596
 
 - **Bridging Theory and Algorithm for Domain Adaptation(MDD)**  
@@ -76,26 +76,26 @@
 [[code]](https://github.com/thuml/MDD)
   - Author: Yuchen Zhang, Tianle Liu, Mingsheng Long, Michael I. Jordan
   - Date: 2019/4/11
-  - Conference: ICML2019
+  - Conference: ICML 2019
   - Times Cited: 820
 
-- **(MCD)**  
-[[paper]]()
-[[arXiv]]()
-[[code]]()
-  - Author: 
-  - Date: 
-  - Conference: 
-  - Times Cited:
+- **Maximum Classifier Discrepancy for Unsupervised Domain Adaptation(MCD)**  
+[[paper]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Saito_Maximum_Classifier_Discrepancy_CVPR_2018_paper.pdf)
+[[arXiv]](https://arxiv.org/abs/1712.02560)
+[[code]](https://github.com/mil-tokyo/MCD_DA)
+  - Author: Kuniaki Saito, Kohei Watanabe, Yoshitaka Ushiku, Tatsuya Harada
+  - Date: 2018/4/3
+  - Conference: CVPR 2018
+  - Times Cited: 2311
 
-- **(ToAlign)**  
-[[paper]]()
-[[arXiv]]()
-[[code]]()
-  - Author: 
-  - Date: 
-  - Conference: 
-  - Times Cited: 
+- **ToAlign: Task-oriented Alignment for Unsupervised Domain Adaptation**  
+[[paper]](https://proceedings.neurips.cc/paper_files/paper/2021/file/731c83db8d2ff01bdc000083fd3c3740-Paper.pdf)
+[[arXiv]](https://arxiv.org/abs/2106.10812)
+[[code]](https://github.com/microsoft/UDA)
+  - Author: Guoqiang Wei, Cuiling Lan, Wenjun Zeng, Zhizheng Zhang, Zhibo Chen
+  - Date: 2021/10/26
+  - Conference: NeurIPS 2021
+  - Times Cited: 73
 
 
-計9本
+計11本
