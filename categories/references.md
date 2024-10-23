@@ -23,6 +23,24 @@
   - Conference: ICCV 2019
   - Times Cited: 1958
 
+  - **ImageNet Large Scale Visual Recognition Challenge**  
+[[paper]](https://link.springer.com/content/pdf/10.1007/s11263-015-0816-y.pdf)
+[[arXiv]](https://arxiv.org/abs/1409.0575)
+[[code]](https://www.image-net.org/index.php)
+  - Author: Olga Russakovsky, Jia Deng, Hao Su, Jonathan Krause, Sanjeev Satheesh, Sean Ma, Zhiheng Huang, Andrej Karpathy, Aditya Khosla, Michael Bernstein, Alexander C. Berg, Li Fei-Fei 
+  - Date: 2015/1/30
+  - Journal: International Journal of Computer Vision (Volume 115)
+  - Times Cited: 47318
+
+    - **Microsoft COCO: Common Objects in Context**  
+[[paper]](https://core.ac.uk/download/pdf/216302137.pdf)
+[[arXiv]](https://arxiv.org/abs/1405.0312)
+[[code]](https://cocodataset.org/#home)
+  - Author: Tsung-Yi Lin, Michael Maire, Serge Belongie, Lubomir Bourdev, Ross Girshick, James Hays, Pietro Perona, Deva Ramanan, C. Lawrence Zitnick, Piotr Dollár
+  - Date: 2014/5/1
+  - Conference: ECCV 2014
+  - Times Cited: 50976
+
 
 ## 比較手法
 - **MemSAC: Memory Augmented Sample Consistency for Large Scale Domain Adaptation**  
@@ -98,4 +116,4 @@
   - Times Cited: 73
 
 
-計11本
+計13本
