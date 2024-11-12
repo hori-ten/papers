@@ -115,5 +115,20 @@
   - Conference: NeurIPS 2021
   - Times Cited: 73
 
+## その他
+- **A Simple Framework for Contrastive Learning of Visual Representations**  
+[[paper]](http://proceedings.mlr.press/v119/chen20j/chen20j.pdf)
+[[arXiv]](https://arxiv.org/abs/2002.05709)
+[[code]](https://github.com/google-research/simclr)
+  - Author: Ting Chen, Simon Kornblith, Mohammad Norouzi, Geoffrey Hinton
+  - Date: 2020/2/13
+  - Conference: ICML 2020
+  - Times Cited: 20280
 
-計13本
+Grad-CAM
+t-SNE
+GPT
+
+
+
+計17本
