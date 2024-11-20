@@ -116,7 +116,7 @@
   - Times Cited: 73
 
 ## その他
-- **A Simple Framework for Contrastive Learning of Visual Representations**  
+- **A Simple Framework for Contrastive Learning of Visual Representations(SimCLR)**  
 [[paper]](http://proceedings.mlr.press/v119/chen20j/chen20j.pdf)
 [[arXiv]](https://arxiv.org/abs/2002.05709)
 [[code]](https://github.com/google-research/simclr)
