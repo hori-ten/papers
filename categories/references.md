@@ -125,7 +125,15 @@
   - Conference: ICML 2020
   - Times Cited: 20280
 
-Grad-CAM
+- **Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization**  
+[[paper]](https://openaccess.thecvf.com/content_ICCV_2017/papers/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.pdf)
+[[arXiv]](https://arxiv.org/abs/1610.02391)
+[[code]](https://github.com/ramprs/grad-cam/)
+  - Author: Ramprasaath R. Selvaraju, Michael Cogswell, Abhishek Das, Ramakrishna Vedantam, Devi Parikh, Dhruv Batra
+  - Date: 2016/8/7
+  - Conference: ICCV 2017
+  - Times Cited: 20823
+
 t-SNE
 GPT
 
