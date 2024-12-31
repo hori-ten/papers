@@ -133,9 +133,19 @@
   - Date: 2016/8/7
   - Conference: ICCV 2017
   - Times Cited: 20823
+ 
+- **Generative Adversarial Networks**  
+[[paper]](https://proceedings.neurips.cc/paper_files/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)
+[[arXiv]](https://arxiv.org/abs/1406.2661)
+[[code]]()
+  - Author: Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio
+  - Date: 2014/6/10
+  - Conference: NIPS 2014
+  - Times Cited: 76235
 
 t-SNE
 GPT
+
 
 
 
